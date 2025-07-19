@@ -26,7 +26,7 @@ I'm someone who thrives on challenges and lives for problem-solving. I've traver
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently pursuing my Data Science Undergrad degree from IIT Mandi.  
+- 🔭 I’m am a  Data Science Undergrad degree from IIT Mandi.  
   
 
 - 🌱 I’m currently learning Machine learning and Artificial Intelligence.  
